@@ -1,0 +1,19 @@
+# ambientes
+venv/
+__pycache__/
+
+# datasets
+dataset/
+dataset_clean/
+dataset_dedup/
+
+# outputs grandes
+outputs/
+
+# notebooks
+.ipynb_checkpoints/
+
+# arquivos grandes
+*.zip
+*.tar
+*.gz
